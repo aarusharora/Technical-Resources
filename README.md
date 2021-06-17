@@ -10,7 +10,11 @@ This repo gives you directions ;)
 ## 2) Web Dev
 > 1. FreeCodeCamp - https://www.freecodecamp.org/
 
-## AI/ML/Data Science/Deep Learning
+## 3) AI/ML/Data Science/Deep Learning
 > 1. Andrew Ng ML Course - https://www.coursera.org/learn/machine-learning
 > 2. Fast AI Course - https://course.fast.ai/
 > 3. Jeremy Howard's Youtube channel - https://www.youtube.com/user/howardjeremyp
+
+## 4) Golang
+> 1. Medium article for all type of users - https://medium.com/p-society/master-plan-to-learn-golang-edbf85c7ae83
+> 2. Games with Go - https://gameswithgo.org/topics.html
