@@ -20,3 +20,7 @@ This repo gives you directions ;)
 > 2. Games with Go - https://gameswithgo.org/topics.html
 > 3. Go by Example - https://gobyexample.com/
 > 4. Exercism - https://exercism.io/my/tracks/go
+> 5. Learn Go with Tests - https://quii.gitbook.io/learn-go-with-tests/
+> 6. Build Web Application with Go - https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/
+> 7. Golang Cafe - https://golang.cafe/blog/my-5-favourite-online-resources-to-learn-golang-from-scratch.html
+> 8. KataCoda - https://www.katacoda.com/courses/golang/playground
