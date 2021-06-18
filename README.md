@@ -19,3 +19,4 @@ This repo gives you directions ;)
 > 1. Medium article for all type of users - https://medium.com/p-society/master-plan-to-learn-golang-edbf85c7ae83
 > 2. Games with Go - https://gameswithgo.org/topics.html
 > 3. Go by Example - https://gobyexample.com/
+> 4. Exercism - https://exercism.io/my/tracks/go
