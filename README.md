@@ -24,3 +24,4 @@ This repo gives you directions ;)
 > 6. Build Web Application with Go - https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/
 > 7. Golang Cafe - https://golang.cafe/blog/my-5-favourite-online-resources-to-learn-golang-from-scratch.html
 > 8. KataCoda - https://www.katacoda.com/courses/golang/playground
+> 9. Golang Bootcamp - http://www.golangbootcamp.com/book/
